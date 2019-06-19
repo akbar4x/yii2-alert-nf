@@ -1,5 +1,5 @@
 <?php
-namespace edoriansyah\alert;
+namespace muhammadakbar\alert;
 use Yii;
 class Alert extends \yii\bootstrap\Widget
 {
